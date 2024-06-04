@@ -93,8 +93,6 @@ Minhas contribuições incluíram a programação do Arduino, integração com o
 
 - Comunicação 
 > Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração da equipe.
-- Autonomia
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
 - Trabalho em equipe
 > Adquirida por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto.
 
@@ -153,12 +151,10 @@ Fui encarregado de desenvolver tanto o front-end do projeto, utilizando HTML e C
 
 ### Soft Skills
 
-- Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração da equipe.
+- Colaboração 
+> Desenvolvida através do trabalho em equipe e da constante comunicação com os membros do grupo, facilitando a troca de conhecimentos e a solução de problemas de forma conjunta.
 - Autonomia
 > Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
-- Trabalho em equipe
-> Adquirida por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto.
 
 #
 
@@ -219,10 +215,8 @@ No projeto, atuei no front-end com HTML/CSS e bibliotecas como React, Axios, Ant
 
 - Comunicação 
 > Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração da equipe.
-- Autonomia
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
-- Trabalho em equipe
-> Adquirida por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto.
+- Adaptabilidade
+> Aprimorada pela capacidade de se ajustar a novas ferramentas e métodos de trabalho rapidamente, bem como pela gestão de mudanças durante o desenvolvimento do projeto.
 
 
 #
@@ -286,9 +280,75 @@ Além disso, trabalhei na integração de ferramentas como Figma e Canva para a 
 
 ### Soft Skills
 
-- Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração da equipe.
-- Autonomia
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
-- Trabalho em equipe
-> Adquirida por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto.
+- Pensamento Crítico
+> Fortalecida pela análise e avaliação contínua das soluções implementadas, buscando sempre a melhoria contínua e a otimização do sistema.
+- Gestão de Tempo
+> Aprimorada pela capacidade de priorizar tarefas e gerenciar o tempo de forma eficiente para cumprir prazos e garantir a qualidade das entregas.
+
+#
+
+## Projeto 5 - 2024-1
+
+**Parceiro acadêmico:** [Oracle](https://www.oracle.com/br/partnernetwork/expertise/)
+
+**Projeto:** [New Tech](https://github.com/NewTechh/API-5-ADS)
+
+#### Visão do Projeto
+
+<Div align="justify" >
+  
+O projeto integrador do 5º semestre do curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Oracle. O objetivo foi criar um sistema de gestão de parceiros para dispositivos móveis, responsável por cadastrar novos parceiros, gerenciar atualizações, acompanhar o desenvolvimento de conhecimento e expertise, e fornecer relatórios. A aplicação exibe todos os parceiros cadastrados, suas trilhas de conhecimento e progressão, além de incluir funcionalidades de gerenciamento com diferentes níveis de acesso para administradores.
+
+</Div>
+
+#### Requisitos Funcionais
+ - Autenticação de usuários.
+ - Cadastro de consultores de alianças.
+ - Visualização de usuários.
+ - Monitoramento do desempenho dos parceiros por trilhas de conhecimento (Tracks).
+ - Interface personalizada para administradores.
+ - Interface personalizada para consultores de alianças.
+
+#### Requisitos Não Funcionais
+- Segurança: Implementação de mecanismos robustos de segurança para proteger os dados dos usuários e parceiros.
+- Manutenibilidade: O código deve ser escrito de forma clara e modular para facilitar futuras manutenções e atualizações.
+- Documentação: Manter uma documentação abrangente e atualizada para desenvolvedores e usuários finais.
+
+**Projeto finalizado**
+
+![Equipe NewTech - 3 Sprint (720p60)](https://github.com/ThallesTorres/Portfolio_TG_ADS_FATEC/assets/57546200/526ba6af-1eb0-4604-adc2-b886a0d28c27)
+
+
+## Tecnologias Utilizadas
+
+- Front-end: React Native
+- Back-end: Node.js
+- Linguagem de Programação: TypeScript
+- Banco de Dados: PostgreSQL, MongoDB
+- Ferramentas: Git, GitHub, Visual Studio Code, Figma, Canva
+
+## Contribuições Pessoais
+
+No projeto, concentrei meus esforços principalmente no desenvolvimento do front-end usando React Native e TypeScript. Isso resultou na criação de interfaces móveis dinâmicas e seguras, incluindo telas como login, cadastro de parceiros e consultores de alianças, além de um dashboard para monitorar o desempenho dos parceiros.
+Além disso, participei do desenvolvimento do back-end com Node.js e TypeScript, implementando funcionalidades cruciais, como autenticação de usuários e gerenciamento de dados.
+
+### Hard Skills
+
+- React Native
+> Sei utilizar com autonomia
+- Node.js
+> Sei utilizar com autonomia
+- TypeScript
+> Sei utilizar com autonomia
+- PostgreSQL
+> Sei utilizar com autonomia
+- MongoDB
+> Sei utilizar com ajuda
+
+
+### Soft Skills
+
+- Resolução de Problemas 
+> Aprimorada através da identificação e solução eficaz de desafios técnicos e não técnicos que surgiram durante o desenvolvimento do projeto.
+- Resiliência
+> Capacidade de lidar com desafios e pressões de forma construtiva, mantendo o foco e a determinação para superar obstáculos e alcançar metas.
