@@ -108,7 +108,7 @@ Minhas contribuições incluíram a programação do Arduino, integração com o
 
 <Div align="justify" >
   
-Com a transição para o novo modelo de operação do Cadastro Positivo, seu cliente enfrentou a necessidade premente de redesenhar sua gestão de informações para algo mais eficaz e com garantia de qualidade. Eles buscavam uma solução que não apenas utilizasse os dados da forma mais correta possível, mas também gerasse valor a partir dessas informações.
+Com a transição para o novo modelo de operação do Cadastro Positivo, o cliente enfrentou a necessidade premente de redesenhar sua gestão de informações para algo mais eficaz e com garantia de qualidade. Ele buscava uma solução que não apenas utilizasse os dados da forma mais correta possível, mas também gerasse valor a partir dessas informações.
 
 O desafio consistia em entregar ao cliente um produto capaz de extrair dados de arquivos .csv e produzir relatórios com indicadores de qualidade especificados pelo cliente. A solução proposta oferecia uma interface intuitiva que permitia a geração desses relatórios, além de facilitar o armazenamento local por meio de um executável.
 
