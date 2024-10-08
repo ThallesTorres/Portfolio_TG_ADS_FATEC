@@ -91,11 +91,12 @@ Minhas contribuições incluíram a programação do Arduino, integração com o
 
 ### Soft Skills
 
-- Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração da equipe.
+- Adaptabilidade 
+> Diante do desafio de trabalhar com tecnologias como Arduino e App Inventor, que eram novidade para todos os membros da equipe, demonstrei grande capacidade de adaptação, rapidamente assimilando novos conceitos e aplicando-os na prática. Essa flexibilidade foi fundamental para superar os obstáculos e entregar o projeto com sucesso.
 - Trabalho em equipe
-> Adquirida por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto.
-
+> Embora não houvesse um líder formal na equipe, contribuí ativamente para um ambiente colaborativo, compartilhando meus conhecimentos e aprendizados com os demais membros. A troca de ideias e a colaboração mútua foram essenciais para o desenvolvimento do projeto.
+- Comunicação
+> Ao apresentar o projeto para a turma e para o professor, aprimorei minhas habilidades de comunicação, explicando de forma clara e concisa as soluções técnicas adotadas e os resultados obtidos.
 #
 
 ## Projeto 2 - 2020-1
@@ -151,11 +152,10 @@ Fui encarregado de desenvolver tanto o front-end do projeto, utilizando HTML e C
 
 ### Soft Skills
 
-- Colaboração 
-> Desenvolvida através do trabalho em equipe e da constante comunicação com os membros do grupo, facilitando a troca de conhecimentos e a solução de problemas de forma conjunta.
-- Autonomia
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
-
+- Proatividade 
+> Demonstrando proatividade, iniciei estudos independentes em programação, o que me permitiu contribuir de forma mais efetiva para o desenvolvimento do back-end do projeto. Essa iniciativa foi fundamental para superar os desafios da manipulação de dados e garantir a entrega de um produto de qualidade.
+- Resolução de problemas
+> Ao lidar com a complexidade da manipulação de dados em grande escala, desenvolvi habilidades de resolução de problemas, buscando soluções eficientes para garantir a qualidade dos resultados. 
 #
 
 ## Projeto 3 - 2020-2
@@ -213,10 +213,10 @@ No projeto, atuei no front-end com HTML/CSS e bibliotecas como React, Axios, Ant
 
 ### Soft Skills
 
-- Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração da equipe.
-- Adaptabilidade
-> Aprimorada pela capacidade de se ajustar a novas ferramentas e métodos de trabalho rapidamente, bem como pela gestão de mudanças durante o desenvolvimento do projeto.
+- Perseverança 
+> Diante dos desafios apresentados pelo projeto, como a complexidade da linguagem Java e a manipulação de dados geográficos, demonstrei perseverança e determinação para superar os obstáculos e entregar um produto completo e funcional.
+- Resolução de problemas
+> Ao lidar com a complexidade da integração de diferentes tecnologias e da manipulação de dados geográficos, desenvolvi habilidades de resolução de problemas, buscando soluções criativas e eficientes para os desafios encontrados. A capacidade de analisar o problema de forma sistemática e identificar a causa raiz foi fundamental para o sucesso do projeto.
 
 
 #
@@ -280,11 +280,12 @@ Além disso, trabalhei na integração de ferramentas como Figma e Canva para a 
 
 ### Soft Skills
 
-- Pensamento Crítico
-> Fortalecida pela análise e avaliação contínua das soluções implementadas, buscando sempre a melhoria contínua e a otimização do sistema.
-- Gestão de Tempo
-> Aprimorada pela capacidade de priorizar tarefas e gerenciar o tempo de forma eficiente para cumprir prazos e garantir a qualidade das entregas.
-
+- Resiliência
+> Após uma pausa de dois anos e meio, retornei aos estudos com determinação, superando os desafios de retomar a programação e me adaptar a novas tecnologias. Essa experiência fortaleceu minha resiliência e capacidade de lidar com situações adversas.
+- Adaptabilidade
+> Aprender TypeScript e suas tecnologias, além de me integrar a uma nova equipe, exigiu que eu fosse flexível e capaz de aprender rapidamente. Essa adaptabilidade me permitiu contribuir ativamente para o sucesso do projeto, mesmo em um ambiente novo e desafiador.
+- Trabalho em equipe
+> A experiência de trabalhar em uma equipe nova e acolhedora me permitiu desenvolver minhas habilidades de colaboração e comunicação. A troca de ideias e o apoio mútuo foram fundamentais para o sucesso do projeto.
 #
 
 ## Projeto 5 - 2024-1
@@ -348,7 +349,7 @@ Além disso, participei do desenvolvimento do back-end com Node.js e TypeScript,
 
 ### Soft Skills
 
-- Resolução de Problemas 
-> Aprimorada através da identificação e solução eficaz de desafios técnicos e não técnicos que surgiram durante o desenvolvimento do projeto.
-- Resiliência
-> Capacidade de lidar com desafios e pressões de forma construtiva, mantendo o foco e a determinação para superar obstáculos e alcançar metas.
+- Aprendizagem rápida 
+> A experiência com React Native me proporcionou a oportunidade de aprimorar minhas habilidades de aprendizado rápido, adaptando-me rapidamente a novas tecnologias e frameworks, o que é fundamental em um mercado em constante evolução.
+- Resolução de problemas
+> Ao enfrentar desafios como a otimização do desempenho e a compatibilidade com diferentes dispositivos, desenvolvi habilidades de resolução de problemas, buscando soluções criativas e eficientes para garantir a qualidade do aplicativo.
