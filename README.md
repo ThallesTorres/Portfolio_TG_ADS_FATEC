@@ -8,11 +8,17 @@
 
 <img align="right" src="img/ThallesTorres.jpg" alt="Foto de perfil" width="300"/>
 
-Tenho uma paixão pela área de programação desde o ensino médio. Comecei a fazer um curso técnico de TI e, com isso, fui me apaixonando mais pela área. Nesse período, realizei projetos e fiz cursos para aprofundar-me na área.
+Minha paixão pela programação começou no ensino médio e se intensificou durante o curso técnico em TI, concluído em 2017. 
+
+A experiência prática de desenvolver projetos e a descoberta das diversas possibilidades da área me impulsionaram a buscar uma formação mais aprofundada. 
+
+Foi assim que, em 2019, ingressei no curso de Análise e Desenvolvimento de Sistemas na FATEC, com o objetivo de aprimorar minhas habilidades e construir uma carreira sólida na área.
 
 Nessa jornada na área criei gosto por analisar e solucionar problemas, tanto que hoje tenho como passatempo a área de manutenção de placas eletrônicas.
 
 Este portfólio tem o objetivo de destacar os diversos projetos desenvolvidos ao longo dos semestres durante o curso de Análise e Desenvolvimento de Sistemas na FATEC SJC.
+
+Não possuo experiência profissional formal, mas estou ansioso para iniciar minha carreira.
 </Div>
 
 <Div align="center" >
@@ -48,13 +54,15 @@ Este portfólio tem o objetivo de destacar os diversos projetos desenvolvidos ao
 
 ## Projeto 1 - 2019-2
 
-**Parceiro acadêmico:** [Fatec São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/)
+**Parceiro acadêmico:** Professores Antonio Egydio e Jean Carlos da [Fatec São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/)
 
 <Div align="justify" >
 
 <img align="right" src="img/API1.png" alt="Foto de perfil" width="300"/>
 
-O Smartparking é uma solução tecnológica baseada em IoT (Internet das Coisas) que visa resolver uma significativa deficiência em mercados, shoppings e grandes estacionamentos. Seu principal objetivo é auxiliar os motoristas a encontrar vagas de estacionamento de forma simples e rápida. O sistema funciona por meio de sensores ultrassônicos instalados em cada vaga, os quais estão conectados a uma placa Arduino. Esses sensores enviam em tempo real para os usuários do aplicativo informações sobre as vagas livres e ocupadas, simplificando assim o processo de encontrar uma vaga de estacionamento.
+Os grandes estacionamentos enfrentam o desafio de baixa eficiência na busca por vagas, gerando frustração para motoristas e aumentando o tráfego dentro dos estacionamentos. O problema central era a falta de uma forma prática de visualizar as vagas disponíveis em tempo real.
+
+O Smartparking surge como uma solução tecnológica baseada em IoT (Internet das Coisas) para resolver essa deficiência. Ele auxilia motoristas a encontrar vagas de maneira simples e rápida. Utilizando sensores ultrassônicos conectados a uma placa Arduino, o sistema transmite informações em tempo real sobre as vagas disponíveis para um aplicativo, otimizando o processo de estacionamento e reduzindo a circulação desnecessária.
 
 </Div>
 
@@ -109,9 +117,9 @@ Minhas contribuições incluíram a programação do Arduino, integração com o
 
 <Div align="justify" >
   
-Com a transição para o novo modelo de operação do Cadastro Positivo, o cliente enfrentou a necessidade premente de redesenhar sua gestão de informações para algo mais eficaz e com garantia de qualidade. Ele buscava uma solução que não apenas utilizasse os dados da forma mais correta possível, mas também gerasse valor a partir dessas informações.
+Com a transição para o novo modelo de operação do Cadastro Positivo, o SPC Brasil enfrentava um problema crítico: a dificuldade em gerenciar e garantir a qualidade de grandes volumes de dados em arquivos .csv. Esse desafio impactava diretamente a confiabilidade dos relatórios e a capacidade de extrair insights valiosos.
 
-O desafio consistia em entregar ao cliente um produto capaz de extrair dados de arquivos .csv e produzir relatórios com indicadores de qualidade especificados pelo cliente. A solução proposta oferecia uma interface intuitiva que permitia a geração desses relatórios, além de facilitar o armazenamento local por meio de um executável.
+O MetaApp foi desenvolvido para atender a essa necessidade, oferecendo uma solução eficiente e intuitiva. Ele extrai dados de arquivos .csv e gera relatórios com indicadores de qualidade especificados pelo cliente. Além disso, permite o armazenamento local por meio de um executável, simplificando a operação e promovendo a qualidade na gestão de informações.
 
 </Div>
 
@@ -168,9 +176,9 @@ Fui encarregado de desenvolver tanto o front-end do projeto, utilizando HTML e C
 
 <Div align="justify" >
   
-O projeto que desenvolvi neste semestre atendia à necessidade do nosso cliente, uma empresa parceira, que buscava uma ferramenta capaz de desempenhar funções semelhantes a um "mini-ETL". A principal funcionalidade exigida era a capacidade de extrair dados de um arquivo do tipo shapefile, armazená-los em um banco de dados e também realizar o processo inverso.
+A Visiona enfrentava o desafio de manipular grandes volumes de dados georreferenciados de maneira prática e eficiente. A ausência de uma ferramenta específica dificultava o processo de extração, armazenamento e transformação desses dados, aumentando a complexidade e o tempo gasto.
 
-O JumboETL, a solução que ofereci, é uma aplicação web que permite a manipulação de dados georreferenciados, simulando um processo ETL (Extract, Transform, Load) e sendo acessível em qualquer dispositivo com suporte a navegadores web. O desenvolvimento do JumboETL foi pensado para proporcionar uma experiência de usuário simples e intuitiva, facilitando o upload dos dados do arquivo shapefile e a criação de um novo arquivo shapefile a partir dos dados armazenados no banco de dados.
+O JumboETL foi desenvolvido como uma aplicação web para resolver esse problema, simulando um processo ETL (Extract, Transform, Load). Ele permite a extração de dados de arquivos shapefile, seu armazenamento em um banco de dados e o processo inverso, com uma interface simples e acessível via navegador. O sistema facilita tanto o upload quanto a criação de novos arquivos shapefile com base nos dados processados.
 
 </Div>
 
@@ -231,7 +239,9 @@ No projeto, atuei no front-end com HTML/CSS e bibliotecas como React, Axios, Ant
 
 <Div align="justify" >
   
-O projeto visa criar uma plataforma integrada para incentivar a participação na cadeia de descarte e reciclagem de óleo de fritura usado. Esta plataforma gerenciará de forma eficiente os créditos obtidos por estabelecimentos cadastrados, utilizados como contrapartida na coleta pelos parceiros da Greenneat. Buscamos estabelecer um ecossistema colaborativo e sustentável, simplificando o controle de descarte e coleta para Parceiros Coletores e Estabelecimentos Fornecedores. Os créditos acumulados poderão ser usados em transações na loja virtual, promovendo práticas ambientalmente responsáveis e contribuindo para a economia circular.
+O descarte inadequado de óleo de fritura usado é um problema ambiental significativo, agravado pela falta de uma plataforma eficaz para gerenciar o processo de coleta e reciclagem. A Greenneat enfrentava dificuldades em rastrear e recompensar os estabelecimentos participantes da cadeia de descarte.
+
+O projeto Quantum Team propôs uma solução integrada para resolver esse problema, criando uma plataforma que gerencia créditos de parceiros cadastrados. Esses créditos podem ser utilizados na loja virtual, incentivando práticas ambientalmente responsáveis e promovendo a economia circular. O sistema conecta estabelecimentos fornecedores e parceiros coletores, simplificando o processo de coleta e reciclagem.
 
 </Div>
 
@@ -298,7 +308,9 @@ Além disso, trabalhei na integração de ferramentas como Figma e Canva para a 
 
 <Div align="justify" >
   
-O projeto integrador do 5º semestre do curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Oracle. O objetivo foi criar um sistema de gestão de parceiros para dispositivos móveis, responsável por cadastrar novos parceiros, gerenciar atualizações, acompanhar o desenvolvimento de conhecimento e expertise, e fornecer relatórios. A aplicação exibe todos os parceiros cadastrados, suas trilhas de conhecimento e progressão, além de incluir funcionalidades de gerenciamento com diferentes níveis de acesso para administradores.
+A Oracle identificou dificuldades no gerenciamento de seus parceiros, incluindo o cadastro, monitoramento do desenvolvimento de expertise e controle das trilhas de conhecimento. A ausência de um sistema integrado gerava ineficiências operacionais e falta de visibilidade sobre o progresso dos parceiros.
+
+O New Tech foi desenvolvido para solucionar esse problema, criando um sistema de gestão de parceiros para dispositivos móveis. A aplicação permite o cadastro de novos parceiros, gerenciamento de atualizações, acompanhamento do desenvolvimento de conhecimento e geração de relatórios. Com diferentes níveis de acesso, o sistema oferece funcionalidades robustas e promove uma gestão mais eficiente e centralizada.
 
 </Div>
 
