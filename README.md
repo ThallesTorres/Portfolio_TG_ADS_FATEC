@@ -365,3 +365,36 @@ Além disso, participei do desenvolvimento do back-end com Node.js e TypeScript,
 > A experiência com React Native me proporcionou a oportunidade de aprimorar minhas habilidades de aprendizado rápido, adaptando-me rapidamente a novas tecnologias e frameworks, o que é fundamental em um mercado em constante evolução.
 - Resolução de problemas
 > Ao enfrentar desafios como a otimização do desempenho e a compatibilidade com diferentes dispositivos, desenvolvi habilidades de resolução de problemas, buscando soluções criativas e eficientes para garantir a qualidade do aplicativo.
+
+## Projeto 6 - 2024-2
+
+**Parceiro acadêmico:** [Dom Rock](https://www.domrock.net/)
+
+**Projeto:** [By Tech](https://github.com/CamilaRedondo/API-FATEC-6-SEM)
+
+#### Visão do Projeto
+
+<Div align="justify" >
+  
+O setor de marketing enfrenta desafios significativos na gestão e análise de grandes volumes de dados de clientes. A dispersão de informações em diversas plataformas, a dificuldade em identificar padrões e tendências relevantes e a falta de ferramentas adequadas para personalizar campanhas são obstáculos que impedem a otimização das estratégias de marketing e a tomada de decisões mais assertivas. A análise manual de dados é um processo lento e propenso a erros, limitando a capacidade das empresas em extrair insights valiosos para o negócio.
+
+Para superar esses desafios, estabelecemos uma parceria com a Dom Rock, empresa especializada em inteligência artificial, visando o desenvolvimento de um chatbot customizado para o setor de marketing. Essa solução inovadora tem como objetivo otimizar a análise de dados, personalizar campanhas e identificar oportunidades de crescimento. Através da arquitetura RAG, o chatbot acessa dados vetorizados, o que garante respostas mais precisas e relevantes. Com essa ferramenta, as empresas poderão tomar decisões mais estratégicas, baseadas em dados concretos e análises precisas, impulsionando o crescimento e a eficácia de suas ações de marketing.
+
+</Div>
+
+#### Requisitos Funcionais
+
+#### Requisitos Não Funcionais
+
+**Projeto finalizado**
+
+
+## Tecnologias Utilizadas
+
+
+## Contribuições Pessoais
+
+### Hard Skills
+
+### Soft Skills
+
