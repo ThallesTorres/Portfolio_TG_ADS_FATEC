@@ -383,18 +383,41 @@ Para superar esses desafios, estabelecemos uma parceria com a Dom Rock, empresa 
 </Div>
 
 #### Requisitos Funcionais
+- Desenvolver um pipeline de processamento de dados para banco de vetor;
+- Desenvolver um agente para engenharia de prompt em LLM;
+- Desenvolver uma interface de chatbot integrado com agente de LLM
 
 #### Requisitos Não Funcionais
+- Um vídeo tutorial para demonstrar como usar para usuários que não tem domínio
+de tecnologia.
 
 **Projeto finalizado**
-
+![videoplayback-_online-video-cutter com_](https://github.com/user-attachments/assets/5e7ea4d6-83fa-4fc9-a7dd-70835230f833)
 
 ## Tecnologias Utilizadas
-
+- Python - Responsavel pelo tratamento de dados e logica do RAG.
+- ChromaDB - Banco de dados de vetor.
+- LangChain - Gerencia o fluxo de dados e a integração entre a base vetorial e o LLM na arquitetura RAG.
+- LLM (LLaMA) - Realiza a geração de texto com base nas consultas enriquecidas pela base vetorial.
+- Figma - Ferramenta de design utilizada para criar a interface e prototipar a experiência do usuário.
+- Vue.js - Framework para desenvolver a interface de usuário interativa do chatbot.
 
 ## Contribuições Pessoais
+Durante o desenvolvimento do chatbot, contribuí de forma significativa em diversas etapas cruciais. 
+Primeiramente, arquitetei e implementei um pipeline de dados robusto, capaz de processar e validar informações de forma eficiente, assegurando a qualidade dos dados utilizados pelo sistema. 
+Em seguida, foquei no desenvolvimento da interface do usuário, criando um componente de histórico de conversas intuitivo e funcional, que permite aos usuários acompanhar suas interações com o chatbot de forma clara e organizada. Por fim, estabeleci uma integração sólida entre o frontend e o backend da IA, garantindo que as respostas do chatbot fossem exibidas em tempo real e de forma correta na interface do usuário. 
+Através dessas contribuições, ajudei a construir um chatbot com uma experiência de usuário mais rica e eficiente.
 
 ### Hard Skills
-
+- Python
+> Sei utilizar com autonomia
+- ChromaDB, LangChain e LLM
+> Sei utilizar com ajuda
+- Vue.js
+> Sei utilizar com autonomia
+ 
 ### Soft Skills
-
+- Adaptação a novas tecnologias
+> Demonstrei grande capacidade de adaptação ao lidar com tecnologias emergentes como IA e RAG, assimilando rapidamente os conceitos e aplicando-os no desenvolvimento do chatbot. Essa flexibilidade foi crucial para acompanhar a evolução constante do projeto.
+- Proatividade na aprendizagem
+> A fim de me manter atualizado sobre as últimas tendências em IA e RAG, busquei proativamente cursos, artigos e comunidades online, ampliando meus conhecimentos e contribuindo para o sucesso do projeto.
